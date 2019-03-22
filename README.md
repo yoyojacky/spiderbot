@@ -15,10 +15,10 @@ just a spider bot
 * 5. Connect DCDC module to the battery, and it will supply power to raspberry pi
 ----
 ## How to install the driver from github
-`sudo apt-get update `
-`sudo apt-get upgrade `
-`sudo apt-get -y install git `
-`cd ~`
-`git clone https://github.com/yoyojacky/spiderbot.git`
-`cd spiderbot/`
-`sudo python robot.py `
+* `sudo apt-get update `
+* `sudo apt-get upgrade `
+* `sudo apt-get -y install git `
+* `cd ~`
+* `git clone https://github.com/yoyojacky/spiderbot.git`
+* `cd spiderbot/`
+* `sudo python robot.py `
